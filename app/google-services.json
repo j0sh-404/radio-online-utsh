@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23646893301",
+    "firebase_url": "https://notificationutsh.firebaseio.com",
+    "project_id": "notificationutsh",
+    "storage_bucket": "notificationutsh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23646893301:android:642bcd6d75dc1f3d0701bc",
+        "android_client_info": {
+          "package_name": "com.Utsh.ultima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23646893301-87sjht7h27r0slp2h0fe9mmvkn9876p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Utsh.ultima",
+            "certificate_hash": "c6cadbd0adfa57eefb765178fa2a94f5874d51d0"
+          }
+        },
+        {
+          "client_id": "23646893301-s9a9rbaqh1l840iaf5m80btaropv8tkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnqSosIcY8jJQOz_J450NyQgrPWAoljqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23646893301-s9a9rbaqh1l840iaf5m80btaropv8tkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
